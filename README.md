@@ -2,7 +2,7 @@
 
 **IAT 459 — Spring 2026, Simon Fraser University**
 
-HeritageHub is a full-stack web application for discovering and reviewing museums, galleries, and historic sites across Canada. Users can contribute new sites, write reviews with images, and maintain personal bucket lists and visited lists.
+HeritageHub is a full-stack web application for discovering and reviewing museums, galleries, and historic sites across Canada. Users can contribute new sites, write reviews with images, and maintain personal bucket lists and visited lists. HeritageHub was created in a group of three.
 
 **Features**
 
