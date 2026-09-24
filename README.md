@@ -5,6 +5,7 @@
 HeritageHub is a full-stack web application for discovering and reviewing museums, galleries, and historic sites across Canada. Users can contribute new sites, write reviews with images, and maintain personal bucket lists and visited lists.
 
 **Features**
+
 -Browse Canadian heritage sites
 
 -Create and manage facility listings
